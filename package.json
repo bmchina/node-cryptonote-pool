@@ -15,7 +15,7 @@
         "dateformat": "1.0.12",
         "base58-native": "0.1.4",
         "multi-hashing": "git://github.com/zone117x/node-multi-hashing.git",
-        "cryptonote-util": "git://github.com/M5M400/node-cryptonote-util#xmr-Nan-2.0"
+        "cryptonote-util": "https://github.com/M5M400/node-cryptonote-util#xmr-Nan-2.0"
     },
     "engines": {
         "node": ">=0.10"
